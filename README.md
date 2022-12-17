@@ -35,4 +35,4 @@
     
     ```
     sudo modprobe 88x2bu
-    ``
+    
