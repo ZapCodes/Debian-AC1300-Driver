@@ -2,7 +2,7 @@
 
 echo "Cloneing github repo"
 
-git clone https://github.com/cilynx/rtl88x2bu.git
+git clone https://github.com/zapcodes/rtl88x2bu.git
 
 echo "Going into directory!"
 
