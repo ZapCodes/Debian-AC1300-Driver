@@ -11,7 +11,7 @@ cd rtl88x2bu
 
 echo "Makeing initialized driver install"
 
-sudo apt-get install git linux-headers-amd64 build-essential
+sudo apt-get install dkms*
 
 
 VER=$(sed -n 's/\PACKAGE_VERSION="\(.*\)"/\1/p' dkms.conf)
